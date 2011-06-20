@@ -1,0 +1,5 @@
+This project is aimed for PHP training sessions and is not designed to be used as a production code as-is.
+It shows how to implement a simple Composite pattern in PHP with an example of a book containing chapters
+containing text, etc. (composite is 'A' containing 'A's).
+
+PHP >= 8.1
